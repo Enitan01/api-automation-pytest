@@ -12,5 +12,11 @@ A clean, modular API automation framework built with Python, PyTest, and reusabl
 - JSON schema validation utilities
 - CI/CD-ready structure
 
-## Running Tests
+## Running Tests - pytest -v
+
+- `tests/` – API test cases and fixtures  
+- `helpers/` – API client, assertions, data builders  
+- `config/` – environment settings and endpoints  
+- `utils/` – logging and schema validation  
+
 
